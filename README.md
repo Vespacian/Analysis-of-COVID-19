@@ -1,5 +1,7 @@
 # Analysis-of-COVID-19
-Dubtechs 2023 Datathon Medicine Route
+
+![DubTech](https://user-images.githubusercontent.com/70782025/219906679-e85df818-f114-4773-b4b4-a22b6edea621.png)
+
 
 ## The Task
 How can the US government and hospitals to better amnage and prepare their resources and healthcare personnel?
