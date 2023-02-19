@@ -8,6 +8,8 @@ How can the US government and hospitals to better amnage and prepare their resou
 Covid-19 has stressed hospitals and healthcare workers. We want to tackle this problem with ML that would predict how many inpatients beds are used and available in a typical week according to the State and the City. 
 - if we can understand which hospitals/other categories are most stressed with work and predict with ML, we can improve the quality of healthcare by distributing the work. 
 
+The prompt for the Datathon can be found here: 
+https://share-docs.clickup.com/26455927/d/h/t7bvq-348/40c04786de66f7b/t7bvq-1768
 Our .csv file was modified and given to us by the datathon organizers. The original source comes from here: 
 https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u
 
