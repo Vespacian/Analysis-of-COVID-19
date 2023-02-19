@@ -11,3 +11,17 @@ Covid-19 has stressed hospitals and healthcare workers. We want to tackle this p
 Our .csv file was modified and given to us by the datathon organizers. The original source comes from here: 
 https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u
 
+## Prequisites:
+- In your preferred IDE make sure python has been setup (we recommend VS Code)
+- jupyter notebook and all its basic requirements should be setup
+- the 'COVID-19_Reported_Patient_Impact_and_Hospital_Capacity_by_Facility.csv' should be download and placed in your IDE's folder
+- before running make sure the following libraries have already been downloaded:
+1. pandas
+2. sklearn
+3. numpy
+4. matplotlib
+5. seaborn
+6. plotnine
+7. os
+
+
