@@ -34,5 +34,5 @@ https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Ca
 6. Plotnine
 7. Os
 
-![Presentation Slides](https://drive.google.com/file/d/1UMPMC6af_fAdd7vzZKgUyFrbYxFoYpPE/view?usp=share_link)
+[Presentation Slides](https://drive.google.com/file/d/1UMPMC6af_fAdd7vzZKgUyFrbYxFoYpPE/view?usp=share_link)
 
