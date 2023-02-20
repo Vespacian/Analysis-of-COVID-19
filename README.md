@@ -1,11 +1,11 @@
-# Analysis-of-COVID-19
+# Analysis-of-COVID-19 - 2nd Place Winner
 
 ![DubTech](https://user-images.githubusercontent.com/70782025/219906679-e85df818-f114-4773-b4b4-a22b6edea621.png)
 
 
 ## The Task
-How can the US government and hospitals to better amnage and prepare their resources and healthcare personnel?
-Covid-19 has stressed hospitals and healthcare workers. We want to tackle this problem with ML that would predict how many inpatients beds are used and available in a typical week according to the State and the City. 
+How can the US government and hospitals better manage and prepare their resources and healthcare personnel?
+Covid-19 has stressed hospitals and healthcare workers. We want to tackle this problem with ML that would predict how many inpatients beds are used and available in a typical week grouped by State and the City. 
 - if we can understand which hospitals/other categories are most stressed with work and predict with ML, we can improve the quality of healthcare by distributing the work. 
 
 The prompt for the Datathon can be found here: 
@@ -34,5 +34,5 @@ https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Ca
 6. Plotnine
 7. Os
 
-[embed]https://drive.google.com/file/d/1UMPMC6af_fAdd7vzZKgUyFrbYxFoYpPE/view?usp=share_link[/embed]
+![Presentation Slides](https://drive.google.com/file/d/1UMPMC6af_fAdd7vzZKgUyFrbYxFoYpPE/view?usp=share_link)
 
