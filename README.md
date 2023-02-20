@@ -2,6 +2,7 @@
 
 ![DubTech](https://user-images.githubusercontent.com/70782025/219906679-e85df818-f114-4773-b4b4-a22b6edea621.png)
 
+[Presentation Slides](https://drive.google.com/file/d/1UMPMC6af_fAdd7vzZKgUyFrbYxFoYpPE/view?usp=share_link)
 
 ## The Task
 How can the US government and hospitals better manage and prepare their resources and healthcare personnel?
@@ -34,5 +35,5 @@ https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Ca
 6. Plotnine
 7. Os
 
-[Presentation Slides](https://drive.google.com/file/d/1UMPMC6af_fAdd7vzZKgUyFrbYxFoYpPE/view?usp=share_link)
+
 
