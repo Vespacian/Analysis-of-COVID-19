@@ -6,7 +6,7 @@
 
 ## The Task
 How can the US government and hospitals better manage and prepare their resources and healthcare personnel?
-Covid-19 has stressed hospitals and healthcare workers. We want to tackle this problem with **Machine Learning** that would predict how many inpatients beds are used and available in a typical week grouped by State and the City. 
+Covid-19 has stressed hospitals and healthcare workers. We want to tackle this problem with ***Machine Learning*** that would predict how many inpatients beds are used and available in a typical week grouped by State and the City. 
 - if we can understand which hospitals/other categories are most stressed with work and predict with ML, we can improve the quality of healthcare by distributing the work. 
 
 The prompt for the Datathon can be found here: 
