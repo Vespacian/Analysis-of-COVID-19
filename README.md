@@ -37,6 +37,4 @@ We won ***1st*** in the Health Track and ***2nd*** for our outstanding Machine L
 
 [Check out our Winning Presentation Slides](https://drive.google.com/file/d/1UMPMC6af_fAdd7vzZKgUyFrbYxFoYpPE/view?usp=share_link)
 
-[All Submissions] (https://docs.google.com/spreadsheets/d/1eN2C4K3b5XhnendAwbpu4U2q5m0BCiRTBNe26XDnF8Y/edit#gid=68268324&range=C3)
-
 
