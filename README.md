@@ -2,8 +2,6 @@
 
 ![DubTech](https://user-images.githubusercontent.com/70782025/219906679-e85df818-f114-4773-b4b4-a22b6edea621.png)
 
-[Presentation Slides](https://drive.google.com/file/d/1UMPMC6af_fAdd7vzZKgUyFrbYxFoYpPE/view?usp=share_link)
-
 ## The Task
 How can the US government and hospitals better manage and prepare their resources and healthcare personnel?
 Covid-19 has stressed hospitals and healthcare workers. We want to tackle this problem with ***Machine Learning*** that would predict how many inpatients beds are used and available in a typical week grouped by State and the City. 
@@ -17,6 +15,9 @@ https://share-docs.clickup.com/26455927/d/h/t7bvq-348/40c04786de66f7b/t7bvq-1768
 Our .csv file was modified and given to us by the datathon organizers. The original source comes from here: 
 <br>
 https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u
+
+<br>
+[Check out our Winning Presentation Slides!](https://drive.google.com/file/d/1UMPMC6af_fAdd7vzZKgUyFrbYxFoYpPE/view?usp=share_link)
 
 ## Set Up
 - In your preferred IDE make sure python has been setup (we recommend VS Code)
