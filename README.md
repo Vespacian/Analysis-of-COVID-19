@@ -17,7 +17,8 @@ Our .csv file was modified and given to us by the datathon organizers. The origi
 https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u
 
 <br>
-[Check out our Winning Presentation Slides!](https://drive.google.com/file/d/1UMPMC6af_fAdd7vzZKgUyFrbYxFoYpPE/view?usp=share_link)
+
+[Check out our Winning Presentation Slides](https://drive.google.com/file/d/1UMPMC6af_fAdd7vzZKgUyFrbYxFoYpPE/view?usp=share_link)
 
 ## Set Up
 - In your preferred IDE make sure python has been setup (we recommend VS Code)
